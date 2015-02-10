@@ -37,7 +37,7 @@ Procuramos alguém que coma tecnologia no café da manhã! Que tenha vontade de 
  * Participação da comunidade ou de projetos open source.
 
 
-Se você tem perfil próximo ao que estamos procurando, envie um email para jobs@configr.com com com o assunto "Vaga - Python e Django":
+Se você tem perfil próximo ao que estamos procurando, envie um email para jobs@configr.com com o assunto "Vaga - Python e Django":
 
  * Pequena apresentação.
  * Endereço do LinkedIn (de preferência) ou currículo em PDF.
