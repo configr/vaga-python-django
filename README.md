@@ -15,7 +15,7 @@ Procuramos alguém que coma tecnologia no café da manhã! Que tenha vontade de 
  * Desenvolver códigos usando preferencialmente Python e Django.
  * Participar da definição e implementação de novas funcionalidades... além de melhorar as que já existem.
  * Atuar lado-a-lado com gerenciamento de servidores, de aplicações e deploy contínuo.
- * Utilizar e melhorar noss processos internos de integração contínua e automação.
+ * Utilizar e melhorar nossos processos internos de integração contínua e automação.
  * Agir rapidamente para a correção de bugs.
 
 ##### Qualificações
