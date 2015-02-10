@@ -1,6 +1,6 @@
 # ![configr](https://raw.github.com/configr/vaga-python-django/master/logo.png "configr")
 
-Lançado em Novembro de 2013, a [Configr](http://configr.com) vem ajudando cada vez mais empresas e desenvolvedores a gerenciarem seus servidores e suas aplicações na nuvem de forma fácil, rápida e sem abrir mão da sua autonomia ou pagar valores estratosféricos. Para fazer isso acontecer, por trás do sistema da Configr, existe uma equipe composta por profissionais extremamente competentes, comprometidos e apaixonados pelo que fazem... e a parte boa é que
+Lançado em Novembro de 2013, a [Configr](http://configr.com) vem ajudando cada vez mais desenvolvedores e empresas a gerenciarem seus servidores e suas aplicações na nuvem de forma fácil, rápida e sem abrir mão da sua autonomia ou pagar valores estratosféricos. Para fazer isso acontecer, por trás do sistema da Configr, existe uma equipe composta por profissionais extremamente competentes, comprometidos e apaixonados pelo que fazem... e a parte boa é que
 nós estamos contratando!
 
 Procuramos alguém que coma tecnologia no café da manhã! Que tenha vontade de fazer diferente, que traga mais alternativas e ações do que reclamações; Alguém que lide com os problemas de maneira criativa, se divertindo e participando da criação de produtos usados por um público altamente exigente. Nós queremos pessoas com paixão pelo que fazem! E, claro, pessoas que trabalhem com vontade de criar produtos dos quais elas se orgulhem de mostrar. Para nós é mais importante o quão curioso vocêfar
